@@ -100,10 +100,7 @@ This is a small Streamlit application for simulating projectile motion with and 
 
 The project was created to apply the equations studied in physics to a working program and to compare analytical and numerical results.
 
-## Author
 
-Shian Jeng Chu  
-GitHub: https://github.com/shianjeng
 
 ## License
 
